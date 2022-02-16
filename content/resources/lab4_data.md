@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Data tables for a lab assignment on MRI physics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/e7306a285180ec01c5eb469453683553_lab4_data.pdf
+file: /media/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/e7306a285180ec01c5eb469453683553_lab4_data.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lab 4: Data'
 uid: e7306a28-5180-ec01-c5eb-469453683553

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lab assignment on diffusion weighted imaging.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/983f574d47fea763c99631f610a4aefe_lab5_rg.pdf
+file: /media/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/983f574d47fea763c99631f610a4aefe_lab5_rg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lab 5: Diffusion Tensor Imaging Analysis'
 uid: 983f574d-47fe-a763-c996-31f610a4aefe
