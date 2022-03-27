@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2ca373e6-0f77-3943-954e-e84e59c054ad
 resourcetype: Document
 title: 'Problem Set 1: Neural systems'
 uid: 007865e0-5840-7e62-6596-4a483aff56c3

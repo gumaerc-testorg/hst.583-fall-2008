@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6344a97b-cc11-05ad-4911-175f735ecf18
 resourcetype: Document
 title: 'Lab 2 Slides: fMRI Acquisition'
 uid: c5f6f4e5-cb9b-2682-a346-f5bb09c8bc46

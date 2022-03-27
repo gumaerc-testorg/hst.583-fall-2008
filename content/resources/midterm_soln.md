@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e77214af-247f-e1b5-b4a9-7425d38126b6
 resourcetype: Document
 title: Midterm Exam (and answer key)
 uid: 4cd93c96-cd82-fa2f-88e6-9068fe39ba69

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6344a97b-cc11-05ad-4911-175f735ecf18
 resourcetype: Document
 title: 'Lab 3: The life cycle of Medical Imaging Data'
 uid: e4e0b724-d97c-a5a7-8818-f78bceb178e2

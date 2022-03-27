@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a37abf7-a103-068d-dcd2-e39dab1baebb
 resourcetype: Document
 title: Diffusion weighted imaging
 uid: 93ef2e50-eeb8-6d9d-c5ab-3304a56affa1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6344a97b-cc11-05ad-4911-175f735ecf18
 resourcetype: Document
 title: 'Lab 2 Talk Paradigms: fMRI Acquisition'
 uid: 2551140f-19f2-ba5f-72cc-87ef613e15f2

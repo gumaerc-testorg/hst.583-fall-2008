@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a37abf7-a103-068d-dcd2-e39dab1baebb
 resourcetype: Document
 title: Selected Topics in Statistics for fMRI Data Analysis
 uid: 498d014a-ef45-f47c-6f28-9043c080f8d6

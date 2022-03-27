@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2ca373e6-0f77-3943-954e-e84e59c054ad
 resourcetype: Document
 title: TA hints for questions 2 and 3
 uid: 6d11ef72-7f43-017d-c8cf-685588fc9070

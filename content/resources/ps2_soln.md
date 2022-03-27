@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2ca373e6-0f77-3943-954e-e84e59c054ad
 resourcetype: Document
 title: 'Problem Set 2 Solutions: MRI physics'
 uid: e862e521-faa0-c6b1-35b9-49b131b49855

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a37abf7-a103-068d-dcd2-e39dab1baebb
 resourcetype: Document
 title: 'Block 3: Imaging Brain Physiology with functional MRI'
 uid: 76e068a3-ea81-a990-1262-c9fdc4388824

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a37abf7-a103-068d-dcd2-e39dab1baebb
 resourcetype: Document
 title: 'Part 1: BOLD Imaging II'
 uid: 0bc6a230-33ab-24a3-5974-5d9cbe125674

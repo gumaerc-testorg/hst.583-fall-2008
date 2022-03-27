@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2ca373e6-0f77-3943-954e-e84e59c054ad
 resourcetype: Document
 title: 'Problem Set 3 Solutions: Imaging physiology'
 uid: b6f74d48-812c-df57-f9a4-856bf2587358

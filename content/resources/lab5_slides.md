@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6344a97b-cc11-05ad-4911-175f735ecf18
 resourcetype: Document
 title: 'Lab 5: Diffusion Tensor Imaging Analysis'
 uid: 41bfbfa6-ba6b-8afc-3b24-bc8f465e3e5c

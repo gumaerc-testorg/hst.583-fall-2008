@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a37abf7-a103-068d-dcd2-e39dab1baebb
 resourcetype: Document
 title: Spatial Normalization of Images
 uid: 9ca4fc26-3a31-5c01-fc27-21b45c837c72

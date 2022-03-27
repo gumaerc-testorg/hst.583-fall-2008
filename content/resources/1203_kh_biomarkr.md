@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4a37abf7-a103-068d-dcd2-e39dab1baebb
 resourcetype: Document
 title: Quantitative Neuroimaging Biomarkers
 uid: 002cf4d9-9a8e-5552-73d1-5736cc7e7b32

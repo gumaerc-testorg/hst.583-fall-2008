@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6344a97b-cc11-05ad-4911-175f735ecf18
 resourcetype: Document
 title: 'Laboratory 1 Solutions: Introduction to fMRI Data Analysis'
 uid: ec4b08f1-1b6f-2e51-1d13-770a0b5157f4

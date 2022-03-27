@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6344a97b-cc11-05ad-4911-175f735ecf18
 resourcetype: Document
 title: 'Lab 6: Statistical Analysis of fMRI Data, Part I'
 uid: 6c734c9a-da6f-f002-99be-c38a09b2cc39
