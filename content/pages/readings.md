@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbook and the schedule
+  of readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -80,9 +82,9 @@ Kosslyn S. M., et al. "Neural Foundations of Imagery." _Nat Rev Neurosci_ 2, no.
 
 Human Subjects in fMRI research
 
-Notes ([PDF]({{< baseurl >}}/resources/0910_rg_safety))
+Notes ({{% resource_link 2031597d-4ea0-36e7-528d-c70f5dfbe2ff "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/0910_humansubject))
+Slides ({{% resource_link 67365908-9fa3-fcdb-e00f-886cce3bb520 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -179,7 +181,7 @@ Ekstrom, L. B., et al. "Bottom-Up Dependent Gating of Frontal Signals in Early V
 
 ### Discussion
 
-Thakkar, K. N., et al. "[Response Monitoring, Repetitive Behaviour and Anterior Cingulate Abnormalities in ASD](https://www.ncbi.nlm.nih.gov/pubmed/18550622)." _Brain_ 131, no. 9 (2008): 2464-2478. ([PDF - 4.2 MB]({{< baseurl >}}/resources/1001_man_br_2008))
+Thakkar, K. N., et al. "[Response Monitoring, Repetitive Behaviour and Anterior Cingulate Abnormalities in ASD](https://www.ncbi.nlm.nih.gov/pubmed/18550622)." _Brain_ 131, no. 9 (2008): 2464-2478. ({{% resource_link 954740f5-5b88-ef2e-e4cf-16675a264e38 "PDF - 4.2 MB" %}})
 
 
 {{< tdclose >}}

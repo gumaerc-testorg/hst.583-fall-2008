@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with slides
+  and resources from selected lecture presentations.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ INSTRUCTORS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-MRI physics I ([PDF - 1.5 MB]({{< baseurl >}}/resources/0924_lw_physics1))
+MRI physics I ({{% resource_link 9d078ea2-0385-82f9-fb69-57877d422ae9 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Wald
@@ -48,7 +50,7 @@ Wald
 7
 {{< tdclose >}}
 {{< tdopen >}}
-MRI physics II ([PDF - 4.9 MB]({{< baseurl >}}/resources/0929_lw_physics2))
+MRI physics II ({{% resource_link b7be8664-b511-b892-88d2-de9b10e141c8 "PDF - 4.9 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Wald
@@ -60,7 +62,7 @@ Wald
 8
 {{< tdclose >}}
 {{< tdopen >}}
-MRI physics III ([PDF - 2.1 MB]({{< baseurl >}}/resources/1001_lw_physics3))
+MRI physics III ({{% resource_link 3bdde86c-5914-ab92-691b-aa350aa4e441 "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Wald
@@ -78,7 +80,7 @@ Wald
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Imaging physiology I: brain at the baseline ([PDF - 1.7 MB]({{< baseurl >}}/resources/1006_db_physiol1))
+Imaging physiology I: brain at the baseline ({{% resource_link 76e068a3-ea81-a990-1262-c9fdc4388824 "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Bolar
@@ -90,7 +92,7 @@ Bolar
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Imaging physiology II: brain activation ([PDF - 2.9 MB]({{< baseurl >}}/resources/1008_bol_physl2))
+Imaging physiology II: brain activation ({{% resource_link ae148436-6d20-a472-c765-fed87715cf15 "PDF - 2.9 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Bolar
@@ -104,7 +106,7 @@ Bolar
 {{< tdopen >}}
 
 
-Imaging physiology III: BOLD imaging ([PDF - 1.2 MB]({{< baseurl >}}/resources/1015_bol_physl3))
+Imaging physiology III: BOLD imaging ({{% resource_link 3a00aaca-c2e6-da1a-d5b1-9884182a0062 "PDF - 1.2 MB" %}})
 
 ### Supplemental video for slide 47
 
@@ -124,7 +126,7 @@ Bolar
 {{< tdopen >}}
 
 
-Imaging physiology IV: BOLD (cont.) and non-BOLD techniques ([PDF - 2.4 MB]({{< baseurl >}}/resources/1020_db_physl4))
+Imaging physiology IV: BOLD (cont.) and non-BOLD techniques ({{% resource_link 0bc6a230-33ab-24a3-5974-5d9cbe125674 "PDF - 2.4 MB" %}})
 
 ### Supplemental diffusion videos for slides 24-27
 
@@ -149,7 +151,7 @@ Bolar
 
 Quantitative perfusion and diffusion imaging biomarkers
 
-Physics of diffusion weighted imaging ([PDF - 1.2 MB]({{< baseurl >}}/resources/1022_ay_diffusion))
+Physics of diffusion weighted imaging ({{% resource_link 93ef2e50-eeb8-6d9d-c5ab-3304a56affa1 "PDF - 1.2 MB" %}})
 
 
 {{< tdclose >}}
@@ -175,7 +177,7 @@ Yendiki
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Stats 2: level 1 ([PDF]({{< baseurl >}}/resources/1112_dg_outline))
+Stats 2: level 1 ({{% resource_link 6ad15e57-9afb-c1e3-285f-ba80f66ba5b2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Greve
@@ -211,7 +213,7 @@ Greve
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Stats 5: correction for multiple measures ([PDF]({{< baseurl >}}/resources/1124_mv_stats1))
+Stats 5: correction for multiple measures ({{% resource_link 498d014a-ef45-f47c-6f28-9043c080f8d6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Vangel
@@ -227,7 +229,7 @@ Vangel
 
 Stats 6: exploratory analysis, PCA, ICA, fuzzy clustering
 
-Stats 7: causality ([PDF]({{< baseurl >}}/resources/1126_mv_stats2))
+Stats 7: causality ({{% resource_link 32f1f658-1b8d-91d9-6540-846258b86b58 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -261,7 +263,7 @@ Salat
 {{< tdopen >}}
 
 
-Quantitative neuroimaging biomarkers ([PDF - 1.6 MB]({{< baseurl >}}/resources/1203_kh_biomarkr))
+Quantitative neuroimaging biomarkers ({{% resource_link 002cf4d9-9a8e-5552-73d1-5736cc7e7b32 "PDF - 1.6 MB" %}})
 
 Surface-based anatomical analysis
 
@@ -283,7 +285,7 @@ Salat
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Spatial normalization for group analysis ([PDF]({{< baseurl >}}/resources/1208_ms_norm))
+Spatial normalization for group analysis ({{% resource_link 9ca4fc26-3a31-5c01-fc27-21b45c837c72 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sabuncu
