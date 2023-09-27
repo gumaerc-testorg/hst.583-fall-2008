@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, format,
+  prerequisites, required textbook, grading policy, and the schedule of lectures,
+  labs, discussions, and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +38,7 @@ Huettel, S. A., A. W. Song, and G. McCarthy. _Functional Magnetic Resonance Imag
 **Note**: The 2nd edition of this book was published after the Fall 2008 term, and Dr. Gollub recommends its use. Huettel, S. A., A. W. Song, and G. McCarthy. [_Functional Magnetic Resonance Imaging_](https://global.oup.com/ushe/product/functional-magnetic-resonance-imaging-9780878936274?cc=in&lang=en&q=sinauer
 ). 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2009. ISBN: 9780878932863.
 
-This book will be supplemented by [readings]({{< baseurl >}}/pages/readings) in the research literature and other books.
+This book will be supplemented by {{% resource_link 484fd403-bfa7-7539-b991-c44eb469a4a6 "readings" %}} in the research literature and other books.
 
 Grading Policy
 --------------
