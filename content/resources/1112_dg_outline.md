@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on statistical signal processing of fMRI.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/6ad15e579afbc1e3285fba80f66ba5b2_1112_dg_outline.pdf
+file_size: 39938
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

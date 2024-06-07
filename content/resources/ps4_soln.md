@@ -4,6 +4,7 @@ description: Solutions to a problem set on statistical analysis of functional ma
   resonance imaging (fMRI) data, independent component analysis (ICA), and principle
   component analysis (PCA).
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/81ba3aa23cfe17ad3fdebfc89fe6dcbf_ps4_soln.pdf
+file_size: 197435
 file_type: application/pdf
 learning_resource_types:
 - Assignments
