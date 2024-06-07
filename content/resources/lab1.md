@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab assignment providing an introduction to fMRI data and analysis.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/e1481d0eea9855bd288d62961eb09418_lab1.pdf
+file_size: 67393
 file_type: application/pdf
 learning_resource_types:
 - Labs

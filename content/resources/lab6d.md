@@ -4,6 +4,7 @@ description: Lab assignment on statistical analysis of fMRI data. The purpose of
   lab is to familiarize you with joint statistical analysis of data that has been
   collected from multiple subjects performing the same functional paradigm.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/75f4e7f8b54cca2127281a4cb50623b3_lab6d.pdf
+file_size: 450249
 file_type: application/pdf
 learning_resource_types:
 - Labs

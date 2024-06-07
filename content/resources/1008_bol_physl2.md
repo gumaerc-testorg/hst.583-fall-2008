@@ -4,6 +4,7 @@ description: Lecture presentation on brain physiology during activation, as know
   from key experimental observations, and how these changes lead to fMRI via BOLD
   imaging.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/ae1484366d20a472c765fed87715cf15_1008_bol_physl2.pdf
+file_size: 2958151
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

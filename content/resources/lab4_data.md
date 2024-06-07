@@ -2,6 +2,7 @@
 content_type: resource
 description: Data tables for a lab assignment on MRI physics.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/e7306a285180ec01c5eb469453683553_lab4_data.pdf
+file_size: 73533
 file_type: application/pdf
 learning_resource_types:
 - Labs

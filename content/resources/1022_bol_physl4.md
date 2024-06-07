@@ -5,6 +5,7 @@ description: Lecture presentation on blood-oxygen-level-dependent (BOLD) functio
   BOLD signal contribution, the effects of diffusion on BOLD signal, BOLD sequence
   variants, and BOLD imaging parameters.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/c384ecd41dd262887bbb896e6f1d98bd_1022_bol_physl4.pdf
+file_size: 2503292
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Data files for a lab assignment on statistical analysis of fMRI data.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/8040ec8241970bee245564727d199cdb_Lab1_fMRIAcquisition.zip
+file_size: 42407
 file_type: application/zip
 learning_resource_types:
 - Labs
