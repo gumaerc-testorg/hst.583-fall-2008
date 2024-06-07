@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab assignment on MRI physics.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/42f233395613244efd22970d160723e5_lab4b.pdf
+file_size: 35336
 file_type: application/pdf
 learning_resource_types:
 - Labs

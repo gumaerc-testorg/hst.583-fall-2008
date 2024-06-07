@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on the concepts of functional MRI, imaging physiology,
   brain activity, neural activity, metabolic activity, and vascular activity.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/76e068a3ea81a9901262c9fdc4388824_1006_db_physiol1.pdf
+file_size: 1733765
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'Notes for a lab assignment on MRI physics. The lab consists of thr
   parts: SNR Measurements, Determination of MR parameters (T1, T2, T2*) across tissue
   types and regions of interest, and EPI distortions due to B0 Inhomogeneity.'
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/95e95caddf7569b1d2d69ca2fc294251_lab4a_notes_rg.pdf
+file_size: 176462
 file_type: application/pdf
 learning_resource_types:
 - Labs

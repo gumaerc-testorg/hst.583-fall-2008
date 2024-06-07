@@ -3,6 +3,7 @@ content_type: resource
 description: Slide presentation providing an overview of a lab assignment on diffusion
   weighted imaging.
 file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/41bfbfa6ba6b8afc3b24bc8f465e3e5c_lab5_slides.pdf
+file_size: 2427659
 file_type: application/pdf
 learning_resource_types:
 - Labs
