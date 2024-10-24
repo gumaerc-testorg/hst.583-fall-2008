@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on fast magnetic resonance imaging techniques, k-space
   trajectories, EPI, spiral MRI, and susceptibility artifacts.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/9d078ea2038582f9fb6957877d422ae9_0924_lw_physics1.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/9d078ea2038582f9fb6957877d422ae9_0924_lw_physics1.pdf
 file_size: 1579514
 file_type: application/pdf
 learning_resource_types:

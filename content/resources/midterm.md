@@ -2,7 +2,7 @@
 content_type: resource
 description: Midterm exam on the conduct and interpretation of human brain mapping
   studies.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/0f2b097e8b4dc5cc95dd08b1e4a2f72c_midterm.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/0f2b097e8b4dc5cc95dd08b1e4a2f72c_midterm.pdf
 file_size: 33361
 file_type: application/pdf
 learning_resource_types:

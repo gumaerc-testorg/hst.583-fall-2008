@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on imaging physiology, the physics of diffusion
   weighted imaging, quantitative perfusion, and diffusion imaging biomarkers.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/93ef2e50eeb86d9dc5ab3304a56affa1_1022_ay_diffusion.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/93ef2e50eeb86d9dc5ab3304a56affa1_1022_ay_diffusion.pdf
 file_size: 1207978
 file_type: application/pdf
 learning_resource_types:
