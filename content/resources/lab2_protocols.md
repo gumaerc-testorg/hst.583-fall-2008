@@ -2,7 +2,7 @@
 content_type: resource
 description: Detailed explanation of scanning protocols for a lab assignment on fMRI
   acquisition.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/849cacece06ea0c0d36d944a6c4bfc88_lab2_protocols.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/849cacece06ea0c0d36d944a6c4bfc88_lab2_protocols.pdf
 file_size: 124211
 file_type: application/pdf
 learning_resource_types:

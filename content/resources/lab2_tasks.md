@@ -2,7 +2,7 @@
 content_type: resource
 description: Detailed explanation of fMRI task paradigms for a lab assignment on fMRI
   acquisition.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/2551140f19f2ba5f72cc87ef613e15f2_lab2_tasks.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/2551140f19f2ba5f72cc87ef613e15f2_lab2_tasks.pdf
 file_size: 227177
 file_type: application/pdf
 learning_resource_types:
