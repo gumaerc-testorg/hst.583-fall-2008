@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the use of biomarkers in neuroimaging.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/002cf4d99a8e555273d15736cc7e7b32_1203_kh_biomarkr.pdf
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/002cf4d99a8e555273d15736cc7e7b32_1203_kh_biomarkr.pdf
 file_size: 1666351
 file_type: application/pdf
 learning_resource_types:

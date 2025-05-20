@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on multivariate methods for fMRI data analysis,
   functional and effective connectivity, PCA, ICA, and Granger causality.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/32f1f6581b8d91d96540846258b86b58_1126_mv_stats2.pdf
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/32f1f6581b8d91d96540846258b86b58_1126_mv_stats2.pdf
 file_size: 817834
 file_type: application/pdf
 learning_resource_types:

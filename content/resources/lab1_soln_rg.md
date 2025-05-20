@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a introductory lab assignment on fMRI data and analysis.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/ec4b08f11b6f2e511d13770a0b5157f4_lab1_soln_rg.pdf
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/ec4b08f11b6f2e511d13770a0b5157f4_lab1_soln_rg.pdf
 file_size: 434965
 file_type: application/pdf
 learning_resource_types:
