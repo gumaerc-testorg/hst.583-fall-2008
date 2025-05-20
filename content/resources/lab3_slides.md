@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab assignment on the life cycle of medical imaging data.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/e4e0b724d97ca5a78818f78bceb178e2_lab3_slides.pdf
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/e4e0b724d97ca5a78818f78bceb178e2_lab3_slides.pdf
 file_size: 4199605
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on statistics for fMRI data analysis, adjusting
   for multiple comparisons, permutation tests, modelling data from multiple subjects,
   and some thoughts on model validation.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/498d014aef45f47c6f289043c080f8d6_1124_mv_stats1.pdf
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/498d014aef45f47c6f289043c080f8d6_1124_mv_stats1.pdf
 file_size: 916376
 file_type: application/pdf
 learning_resource_types:

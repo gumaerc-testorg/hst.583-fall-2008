@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on blood-oxygen-level-dependent (BOLD) functional magnetic
   resonance imaging.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/60d4bb79b5fbd2f606fe2be9769d413f_ps3.pdf
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/60d4bb79b5fbd2f606fe2be9769d413f_ps3.pdf
 file_size: 241054
 file_type: application/pdf
 learning_resource_types:
