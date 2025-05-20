@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on risks to human subjects associated with functional
   MRI and ethical conduct of fMRI research involving human subjects.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/673659089fa3fcdbe00f886cce3bb520_0910_humansubject.pdf
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/673659089fa3fcdbe00f886cce3bb520_0910_humansubject.pdf
 file_size: 74923
 file_type: application/pdf
 learning_resource_types:

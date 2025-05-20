@@ -7,7 +7,7 @@ description: 'A recently published study conducted by some HST.583 instructors u
   A dissociation between acupuncture analgesia and expectancy evoked placebo analgesia."
   NeuroImage 45, no. 3 (15 April 2009): 940-949. doi:10.1016/j.neuroimage.2008.12.025.
   Courtesy of Elsevier, Inc., http://www.sciencedirect.com . Used with permission.)'
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/c526f90fa6231d86f7d7c644435f63b6_hst-583f08-th.jpg
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/c526f90fa6231d86f7d7c644435f63b6_hst-583f08-th.jpg
 file_size: 7371
 file_type: image/jpeg
 image_metadata:

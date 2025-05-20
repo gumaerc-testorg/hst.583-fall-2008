@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A tutorial on using NeuroLens software for fMRI analysis.
-file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/a20aec1d9ac495f8120d71d6368aeecd_Tutorial_with_dicom.zip
+file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/a20aec1d9ac495f8120d71d6368aeecd_Tutorial_with_dicom.zip
 file_size: 42407
 file_type: application/zip
 learning_resource_types:
