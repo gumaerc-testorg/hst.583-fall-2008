@@ -2,7 +2,7 @@
 content_type: resource
 description: Final exam with solutions on the conduct and interpretation of human
   brain mapping studies.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/88e37b8626a0b1b8c6481867f03bf348_final_soln.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/88e37b8626a0b1b8c6481867f03bf348_final_soln.pdf
 file_size: 166651
 file_type: application/pdf
 learning_resource_types:

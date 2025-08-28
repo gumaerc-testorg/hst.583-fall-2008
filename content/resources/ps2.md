@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on MRI physics, understanding K-space, factors that affect
   the spin level populations, playing with T1 and T2 contrast, calculation of imaging
   gradients, human safety in MRI, and pulse sequence acquisition parameters.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/a269c1fb42102ab312f54889d2f2fd90_ps2.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/a269c1fb42102ab312f54889d2f2fd90_ps2.pdf
 file_size: 94491
 file_type: application/pdf
 learning_resource_types:

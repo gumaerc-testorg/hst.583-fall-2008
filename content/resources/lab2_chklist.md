@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Checklist for a lab assignment on fMRI acquisition.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/40f9339cf0228e8062069afcef6ab9aa_lab2_chklist.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/40f9339cf0228e8062069afcef6ab9aa_lab2_chklist.pdf
 file_size: 265951
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
