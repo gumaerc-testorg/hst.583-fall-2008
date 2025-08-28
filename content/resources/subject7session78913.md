@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Data files for a lab assignment on statistical analysis of fMRI data.
-file: courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/aeba84daa68485f6084dfce810d19968_subject7session78913.zip
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/aeba84daa68485f6084dfce810d19968_subject7session78913.zip
 file_size: 42407
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

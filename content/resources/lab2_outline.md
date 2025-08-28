@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Outline of activities for a lab assignment on fMRI acquisition.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/ae46c022741b0c095b6ceb075748663f_lab2_outline.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/ae46c022741b0c095b6ceb075748663f_lab2_outline.pdf
 file_size: 200261
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

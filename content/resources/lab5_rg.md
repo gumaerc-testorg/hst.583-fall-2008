@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab assignment on diffusion weighted imaging.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/983f574d47fea763c99631f610a4aefe_lab5_rg.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/983f574d47fea763c99631f610a4aefe_lab5_rg.pdf
 file_size: 20250
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
