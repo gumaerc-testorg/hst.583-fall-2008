@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on neural systems, functional magnetic resonance imaging
   (fMRI), and common cause of morbidity and/or mortality in fMRI studies.
-file: /courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/007865e058407e6265964a483aff56c3_ps1.pdf
+file: /ol-ocw-studio-app/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008/007865e058407e6265964a483aff56c3_ps1.pdf
 file_size: 151849
 file_type: application/pdf
 learning_resource_types:
