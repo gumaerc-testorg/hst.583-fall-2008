@@ -10,8 +10,7 @@ uid: f0ca185a-a86b-359b-38ae-98e79cf6daab
 Reference Books
 ---------------
 
-Huettel, S. A., A. W. Song, and G. McCarthy. [_Functional Magnetic Resonance Imaging_](https://global.oup.com/ushe/product/functional-magnetic-resonance-imaging-9780878936274?cc=in&lang=en&q=sinauer
-). 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2008. ISBN: 9780878932863.
+Huettel, S. A., A. W. Song, and G. McCarthy. {{% resource_link "42d91280-57ca-447b-871a-87897df97a47" "_Functional Magnetic Resonance Imaging_" %}}. 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2008. ISBN: 9780878932863.
 
 Nolte, J. _The Human Brain: An Introduction to Its Functional Anatomy_. 5th ed. St. Louis, Mo.: CV Mosby, January 2002. ISBN: 9780323013208.
 
