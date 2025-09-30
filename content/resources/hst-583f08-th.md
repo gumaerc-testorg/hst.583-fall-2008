@@ -16,9 +16,10 @@ image_metadata:
     \ placebo treatments. (Source: Kong, J., T. J. Kaptchuk, G. Polich, I. Kirsch,\
     \ M. Vangel, C. Zyloney, B. Rosen, and R. Gollub. \"Expectancy and treatment interactions:\
     \ A dissociation between acupuncture analgesia and expectancy evoked placebo analgesia.\"\
-    \ _NeuroImage_ 45, no. 3 (15 April 2009): 940-949.\_[doi:10.1016/j.neuroimage.2008.12.025](http://dx.doi.org/10.1016/j.neuroimage.2008.12.025).\
-    \ Courtesy of Elsevier, Inc.,\_[http://www.sciencedirect.com](http://www.sciencedirect.com/)\
-    \ . Used with permission.)"
+    \ _NeuroImage_ 45, no. 3 (15 April 2009): 940-949.\_{{% resource_link \"2447f8cb-85dc-4b0a-b596-58ac23ab69c2\"\
+    \ \"doi:10.1016/j.neuroimage.2008.12.025\" %}}. Courtesy of Elsevier, Inc.,\_\
+    {{% resource_link \"5278eaf5-09d4-4a06-8633-ab493888b9fd\" \"http://www.sciencedirect.com\"\
+    \ %}} . Used with permission.)"
   credit: ''
   image-alt: fMRI images and bar charts comparing responses to verum and sham acupuncture
     treatments.

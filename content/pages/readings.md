@@ -18,8 +18,7 @@ Huettel, S. A., A. W. Song, and G. McCarthy. _Functional Magnetic Resonance Imag
 
 The 2nd edition of this book (2009) was published after the Fall 2008 term, and Dr. Gollub recommends its use. Interested students should consult the corresponding sections in this edition:
 
-Huettel, S. A., A. W. Song, and G. McCarthy. [_Functional Magnetic Resonance Imaging_](https://global.oup.com/ushe/product/functional-magnetic-resonance-imaging-9780878936274?cc=in&lang=en&q=sinauer
-). 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2009. ISBN: 9780878932863.
+Huettel, S. A., A. W. Song, and G. McCarthy. {{% resource_link "42d91280-57ca-447b-871a-87897df97a47" "_Functional Magnetic Resonance Imaging_" %}}. 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2009. ISBN: 9780878932863.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -63,7 +62,7 @@ Supplemental
 
 Nolte, John. _The Human Brain_. 5th ed. Philadelphia, PA: Elsevier, 2002, chapters 1, 3, 6, 17, and portions of 22, pp. 506-525 and 547-561. ISBN: 9780323013208.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262072540) Gazzaniga, M. [_The Cognitive Neurosciences_](https://mitpress.mit.edu/9780262072540). 3rd ed. Cambridge, MA: MIT Press, 2004, chapter 53. ISBN: 9780262072540.
+{{% resource_link "95a8cc1e-e327-4ae6-b297-f86a08c4ac1b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gazzaniga, M. {{% resource_link "95a8cc1e-e327-4ae6-b297-f86a08c4ac1b" "_The Cognitive Neurosciences_" %}}. 3rd ed. Cambridge, MA: MIT Press, 2004, chapter 53. ISBN: 9780262072540.
 
 Kosslyn S. M., et al. "Neural Foundations of Imagery." _Nat Rev Neurosci_ 2, no. 9 (2001): 635-642.
 
@@ -181,7 +180,7 @@ Ekstrom, L. B., et al. "Bottom-Up Dependent Gating of Frontal Signals in Early V
 
 ### Discussion
 
-Thakkar, K. N., et al. "[Response Monitoring, Repetitive Behaviour and Anterior Cingulate Abnormalities in ASD](https://www.ncbi.nlm.nih.gov/pubmed/18550622)." _Brain_ 131, no. 9 (2008): 2464-2478. ({{% resource_link 954740f5-5b88-ef2e-e4cf-16675a264e38 "PDF - 4.2 MB" %}})
+Thakkar, K. N., et al. "{{% resource_link "3903ef5c-4fd7-4f79-9eaf-2ee9c15f0dc9" "Response Monitoring, Repetitive Behaviour and Anterior Cingulate Abnormalities in ASD" %}}." _Brain_ 131, no. 9 (2008): 2464-2478. ({{% resource_link 954740f5-5b88-ef2e-e4cf-16675a264e38 "PDF - 4.2 MB" %}})
 
 
 {{< tdclose >}}
