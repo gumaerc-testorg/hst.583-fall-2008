@@ -43,7 +43,7 @@ Bolar
 
 Solutions ({{% resource_link 3d4ec6f3-6e7c-3c23-1e3d-4644298bca73 "PDF" %}})
 
-[NeuroLens software](https://en.freedownloadmanager.org/Mac-OS/NeuroLens-FREE.html)
+{{% resource_link "3e8c2f52-fbf2-46bb-a8fe-2fdc9a1e5daa" "NeuroLens software" %}}
 
 NeuroLens tutorial:
 
@@ -95,13 +95,13 @@ Pujol
 
 Presentation ({{% resource_link e4e0b724-d97c-a5a7-8818-f78bceb178e2 "PDF - 4.0 MB" %}})
 
-Download [3DSlicer code](https://www.slicer.org/)
+Download {{% resource_link "d2b559c9-3d36-4194-83d8-01f6bb0625c9" "3DSlicer code" %}}
 
 Lab data ([ZIP - 92 MB](/ans7870/HST/HST.583/f08/lab3_data.zip))
 
 3DSlicer tutorial:
 
-> [Getting Started with Slicer2.6](http://www.slicer.org/slicerWiki/index.php/Slicer:Slicer2.6_Getting_Started)
+> {{% resource_link "bec65737-d33e-4d19-ae99-8a1a90152f79" "Getting Started with Slicer2.6" %}}
 > 
 > Pre-computed dataset for tutorial ({{% resource_link a20aec1d-9ac4-95f8-120d-71d6368aeecd "ZIP – 17.8 MB" %}})
 

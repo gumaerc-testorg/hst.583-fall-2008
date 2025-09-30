@@ -35,8 +35,7 @@ Required Textbook
 
 Huettel, S. A., A. W. Song, and G. McCarthy. _Functional Magnetic Resonance Imaging._ 1st edition. Sunderland, MA: Sinauer Associates, Inc., 2004. ISBN: 9780878932887.
 
-**Note**: The 2nd edition of this book was published after the Fall 2008 term, and Dr. Gollub recommends its use. Huettel, S. A., A. W. Song, and G. McCarthy. [_Functional Magnetic Resonance Imaging_](https://global.oup.com/ushe/product/functional-magnetic-resonance-imaging-9780878936274?cc=in&lang=en&q=sinauer
-). 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2009. ISBN: 9780878932863.
+**Note**: The 2nd edition of this book was published after the Fall 2008 term, and Dr. Gollub recommends its use. Huettel, S. A., A. W. Song, and G. McCarthy. {{% resource_link "42d91280-57ca-447b-871a-87897df97a47" "_Functional Magnetic Resonance Imaging_" %}}. 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2009. ISBN: 9780878932863.
 
 This book will be supplemented by {{% resource_link 484fd403-bfa7-7539-b991-c44eb469a4a6 "readings" %}} in the research literature and other books.
 
